@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Master Spelling Game",
+  "description": "A spelling training system that speaks words and checks user input.",
+  "requestFramePermissions": []
+}
